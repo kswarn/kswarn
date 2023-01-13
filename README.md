@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on building a B2B lending platform using NEXTJS, Django REST Framework, PostgreSQL, and Hasura. <br>👯 I’m looking to collaborate on building web and mobile applications and open source projects.<br>🤝 I’m looking for help with scaling applications, diving into product design and understanding devOps.<br>🌱 I’m currently learning system design, cloud infrastructure services and how to build scalable applications and design a scalable architecture. <br>💬 Ask me about building an application from zero to one, web applications, technical writing & documentation.<br>
+🔭 I’m currently working on building a B2B lending platform using NEXTJS, Django REST Framework, PostgreSQL, and Hasura. <br>👯 I’m looking to collaborate on building web and mobile applications and open source projects.<br>🤝 I’m looking for help with scaling applications, diving into product design and understanding devOps.<br>🌱 I’m currently learning system design, cloud infrastructure services and how to build scalable applications and design a scalable architecture. <br>💬 Ask me about building an application from zero to one, building web applications, technical writing & documentation.<br>
 
 
 ## 🌐 Socials:
