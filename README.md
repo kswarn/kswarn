@@ -2,7 +2,14 @@ Hi there!
 
 
 ## About Me
-I am <br> - currently working on building a B2B lending platform using NEXTJS, Django REST Framework, PostgreSQL, and Hasura <br> - looking to collaborate on building web and mobile applications and open source projects <br> - looking for help with scaling applications, diving into product design and understanding devOps <br> - currently learning system design, cloud infrastructure services and how to build scalable applications and design a scalable architecture <br> <br> Ask me about building products from zero to one, building web applications, technical writing & documentation.<br>
+I am a design engineer and my love for building software spans through software development and product design. I am currently a graduate student at UT Austin, specialising in Human Computer Interaction. Over the last 4 years, I have worked at 0-1 startups and at an enterprise SaaS org as a software developer and product designer. Additionally, I built my own startup from 2023-2024 to help sales and marketing teams build interactive product demos. My experience in software development, design, and product has led me to dive deep into human computer interaction and learn how to build and design software that enhances human needs and business goals. 
+
+I am also a writer and I document my learnings on https://swarnakadagadkai.substack.com
+
+## Skills and Tools
+
+- Django Rest Framework, React, NextJS, Typescript, MongoDB, SQL, PostgreSQL, Docker, and AWS
+- Wireframing, User Research, Prototyping, Information Architecture, Visual Design, Design Systems, Figma, Framer and Rive
 
 
 ## Reach out to me here
