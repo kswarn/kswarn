@@ -1,7 +1,5 @@
 # Hi there 👋
 
-
-## About Me
 I am a design engineer and my love for building software spans through software development and product design. I am currently a graduate student at UT Austin, specialising in Human Computer Interaction. Over the last 4 years, I have worked at 0-1 startups and at an enterprise SaaS org as a software developer and product designer. Additionally, I built my own startup from 2023-2024 to help sales and marketing teams build interactive product demos. My experience in software development, design, and product has led me to dive deep into human computer interaction and learn how to build and design software that enhances human needs and business goals. 
 
 I am also a writer and I document my learnings on https://swarnakadagadkai.substack.com
